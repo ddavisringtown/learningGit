@@ -2,3 +2,4 @@ blah file2
 
 more changes blah
 stash changes
+v2.0 changes
