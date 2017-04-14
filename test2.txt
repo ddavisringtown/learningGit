@@ -1,3 +1,4 @@
 blah file2
 
 more changes blah
+stash changes
